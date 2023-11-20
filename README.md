@@ -6,4 +6,6 @@
 
 * Each question is answered with a code to create an appropriate graph and a summary of said graph.
 
+* This is a work in progress that I intend to use as the starting point for a TensorFlow project on hit song prediction
+
 * The data set was sourced from a trusted contributer on Kaggle, and the information that makes up the set was pulled directly from Spotify's provided API. https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
